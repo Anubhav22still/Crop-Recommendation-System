@@ -39,7 +39,7 @@ Contributions to the project are welcome. If you have any suggestions, bug repor
 We would like to express our gratitude to the agricultural research community, farmers, and organizations for providing valuable insights, data, and domain knowledge that contributed to the development of this Crop Recommendation System.
 
 # Contact
-For any inquiries or questions, please contact us at anubhavvasrhneyttt@gmail.com
+For any inquiries or questions, please contact us at anubhavvarshneyttt@gmail.com
 =======
 # Crop-Recommendation-System
 The Crop Recommendation System is an intelligent solution designed to assist farmers and agricultural stakeholders in making informed decisions about crop selection. Leveraging machine learning algorithms and extensive agricultural data, this system provides tailored crop recommendations based on various environmental and soil parameters.
